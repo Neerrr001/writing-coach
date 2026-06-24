@@ -1,1 +1,1 @@
-git 
+An AI Writing Coach on your web
